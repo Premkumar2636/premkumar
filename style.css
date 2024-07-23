@@ -1,0 +1,71 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+background-image: url("background.jpg");
+color: white;
+}
+.Personal{
+    background-color: black;
+    color: white;
+    
+}
+.center{
+    padding: 40px;
+}
+table{
+    padding: 4px;
+}
+.Parent{
+    display: inline-block;
+    border: 5px;
+    border-color: white;
+    border-style:solid;
+    padding: 10px;
+}
+.Demographics{
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 10px;
+    border: 5px;
+    border-color: white;
+    border-style:solid;
+    padding: 10px;
+}
+.Education{
+    display: inline-block;
+    margin-left: 30px;
+    border: 5px;
+    border-color: white;
+    border-style:solid;
+    padding: 10px;
+    
+}
+ul{
+    display: inline;
+    text-align: end;
+    text-decoration-style:solid ;
+}
+li{
+    display:inline-block ;
+}
+.About{
+    text-align: center;
+    padding: 10px;
+}
+.Activities{
+    margin-top: 10px;
+    background-color: black;
+    display:inline-block;
+    border: 5px;
+    border-color: white;
+    border-style:solid;
+    padding: 10px;
+}
+.end{
+    text-align: center;
+}
+.head{
+    text-align: center;
+}
